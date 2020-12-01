@@ -74,4 +74,4 @@ Looking forward to seeing your code!
 
 ### Design
 
-![alt text](https://github.com/heinhtetaung92/Carro-iOS-test/main/singapore-vehicle-detail.png?raw=true)
+![alt text](https://raw.githubusercontent.com/heinhtetaung92/Carro-iOS-test/main/singapore-vehicle-detail.png)
