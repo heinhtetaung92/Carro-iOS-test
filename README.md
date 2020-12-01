@@ -13,6 +13,25 @@ Build an iOS app to display vehicle information base on user's country.
 
 Please use the data from https://gist.githubusercontent.com/heinhtetaung92/fbfd371881e6982c71971eedd5732798/raw/00e14e0e5502dbcf1ea9a2cdc44324fd3a5492e7/test.json and display it accordingly to design.
 
+Before display the UI, user must be able to choose options for the country.
+
+Please refer to the design below for singapore UI.
+For thailand, there'll be a few changes. 
+1. Remove "customize your insurance" button
+2. Remove "View Docs" button
+3. Remove "Usage based insurance" information
+4. Remove "Named drivers" information
+5. Add "Total Fines" information
+6. Add "Total Fines Amount" information
+
+Regarding "Enhance your subscripton" articles, please use hard coded information. 
+
+You may use appropiate images and icons. They don't need to be exactly same.
+
+### Country Options
+1. Singapore
+2. Thailand
+
 We will evaluate this exercise based on:
 
 - Completion of the application
@@ -53,7 +72,6 @@ please be expected to discuss your work further with us during the interview.
 
 Looking forward to seeing your code!
 
-### Designs
+### Design
 
-
-![alt text](./singapore-vehicle-detail.jpg?raw=true)
+![alt text](https://github.com/heinhtetaung92/Carro-iOS-test/main/singapore-vehicle-detail.jpg?raw=true)
