@@ -4,14 +4,13 @@
 
 ### Background
 
-In Carro, we are often required to build mobile apps backed by internal data APIs
-to communicate critical and relevant information to our stakeholders and consumers.
+In Carro, we are often required to build mobile apps backed by internal data APIs to communicate critical and relevant information to our stakeholders and consumers.
 
 ### Your Task
 
 Build an iOS app to display vehicle information base on user's country. 
 
-Please use the data from https://gist.githubusercontent.com/heinhtetaung92/fbfd371881e6982c71971eedd5732798/raw/00e14e0e5502dbcf1ea9a2cdc44324fd3a5492e7/test.json and display it accordingly to design.
+Please fetch the data from https://gist.githubusercontent.com/heinhtetaung92/fbfd371881e6982c71971eedd5732798/raw/00e14e0e5502dbcf1ea9a2cdc44324fd3a5492e7/test.json and display it accordingly to design.
 
 Before display the UI, user must be able to choose options for the country.
 
@@ -61,7 +60,7 @@ If you write tests in your daily work, we would love to see them in this exercis
 
 #### Git and Commit History
 
-Sync your app to GitHub and allow access to `heinhtetaung92` and `cokuscz`.
+Sync your app to GitHub and allow access to `heinhtetaung92`, `nyan-lin-tun` and `cokuscz`.
 
 Please maintain a descriptive and clear Git commit history as it would allow us to better understand your thought process.
 
